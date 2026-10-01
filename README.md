@@ -2,8 +2,6 @@
 
 Moteur minimaliste pour exécuter des scripts Lua 5.4 dans une application C#, basé sur [NLua](https://github.com/NLua/NLua).
 
-![build](https://github.com/OWNER/lua-host/actions/workflows/build.yml/badge.svg)
-
 ## Caractéristiques
 
 - Un seul fichier à copier : `src/LuaEngine.cs`
