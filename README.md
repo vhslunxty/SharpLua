@@ -1,4 +1,4 @@
-# LuaHost
+# SharpLua
 
 Moteur minimaliste pour exécuter des scripts Lua 5.4 dans une application C#, basé sur [NLua](https://github.com/NLua/NLua).
 
